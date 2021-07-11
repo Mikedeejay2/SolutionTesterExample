@@ -1,9 +1,6 @@
 package com.mikedeejay2.example;
 
-import com.mikedeejay2.solutiontester.Inputs;
-import com.mikedeejay2.solutiontester.Results;
-import com.mikedeejay2.solutiontester.Solution;
-import com.mikedeejay2.solutiontester.SolutionTest;
+import com.mikedeejay2.solutiontester.*;
 
 /**
  * A simple example test that adds two ints together.
